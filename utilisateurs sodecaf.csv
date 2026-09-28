@@ -1,0 +1,6 @@
+id;username;email;firstname;lastname;Phone1;phone2;Function;Agency;country
+3;romain.cassignol;romain.cassignol@sodecaf.local;Romain;CASSIGNOL;05.63.68.99.11;;COMPTABLE;MONTAUBAN;FR
+4;flore.diaz;flore.diaz@sodecaf.local;flore;DIAZ;05.63.68.91.89;;ACCUEIL;MONTAUBAN;FR
+5;clément.ferrier;clément.ferrier@sodecaf.fr;Clément;FERRIER;05.63.68.91.24;;COMPTABLE;MONTAUBAN;FR
+6;samy.parisse;samy.parisse@sodecaf.local;Samy;PARISSE;05.63.68.95.24;;INFORMATIQUE;MONTAUBAN;FR
+7;thibaud.pellissier;thibaud.pellissier@sodecaf.local;Thibaud;PELLISSIER;05.63.68.92.71;;COMPTABLE;MONTAUBAN;FR
