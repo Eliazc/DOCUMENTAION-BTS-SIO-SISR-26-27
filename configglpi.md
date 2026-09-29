@@ -3,6 +3,7 @@
     ServerName glpi.bzhboutique.local
     DocumentRoot /var/www/glpi/public
     <Directory /var/www/glpi/public>
+        Options Indexes FollowSymlinks
         Require all granted
         RewriteEngine On
 
